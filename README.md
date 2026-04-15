@@ -25,6 +25,14 @@ Download the latest release for your platform from the [Releases](https://github
 | Windows | `.msi` / `.exe` (NSIS) |
 | Linux | `.deb` / `.AppImage` |
 
+### macOS note
+
+The app is not code-signed, so macOS will block it on first launch. After installing, run:
+
+```bash
+xattr -cr /Applications/QuickScrawl.app
+```
+
 ## Build from Source
 
 ### Prerequisites
