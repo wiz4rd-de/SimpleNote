@@ -1,6 +1,6 @@
 {
   "identifier": "default",
-  "description": "Default permissions for SimpleNote",
+  "description": "Default permissions for QuickScrawl",
   "windows": ["*"],
   "permissions": [
     "core:default",

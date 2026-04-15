@@ -1,5 +1,5 @@
 @font-face {
-  font-family: "SimpleNote";
+  font-family: "QuickScrawl";
   src: url("./assets/PatrickHand-Regular.ttf") format("truetype");
   font-weight: normal;
   font-style: normal;
@@ -115,7 +115,7 @@ body {
 }
 
 #editor .tiptap {
-  font-family: "Chalkboard SE", "Comic Sans MS", "SimpleNote", cursive;
+  font-family: "Chalkboard SE", "Comic Sans MS", "QuickScrawl", cursive;
   font-size: var(--font-size);
   line-height: var(--line-height);
   color: #000;

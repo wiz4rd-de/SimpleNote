@@ -1,8 +1,8 @@
 {
   "$schema": "https://raw.githubusercontent.com/nicedoc/tauri/dev/crates/tauri-config-schema/schema.json",
-  "productName": "SimpleNote",
+  "productName": "QuickScrawl",
   "version": "1.0.0",
-  "identifier": "com.simplenote.desktop",
+  "identifier": "com.quickscrawl.desktop",
   "build": {
     "frontendDist": "../dist",
     "devUrl": "http://localhost:1420",
@@ -12,7 +12,7 @@
   "app": {
     "windows": [
       {
-        "title": "SimpleNote",
+        "title": "QuickScrawl",
         "width": 700,
         "height": 500,
         "minWidth": 400,

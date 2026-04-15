@@ -1,4 +1,4 @@
-# SimpleNote
+# QuickScrawl
 
 A minimal, cross-platform notepad app with rich text formatting and a classic ruled-paper look. Built with [Tauri v2](https://v2.tauri.app/).
 
@@ -17,7 +17,7 @@ A minimal, cross-platform notepad app with rich text formatting and a classic ru
 
 ## Install
 
-Download the latest release for your platform from the [Releases](https://github.com/wiz4rd-de/SimpleNote/releases) page:
+Download the latest release for your platform from the [Releases](https://github.com/wiz4rd-de/QuickScrawl/releases) page:
 
 | Platform | Format |
 |----------|--------|
@@ -58,9 +58,9 @@ Notes are saved as HTML in your OS application data directory:
 
 | OS | Location |
 |----|----------|
-| macOS | `~/Library/Application Support/com.simplenote.desktop/note.html` |
-| Windows | `%APPDATA%\com.simplenote.desktop\note.html` |
-| Linux | `~/.local/share/com.simplenote.desktop/note.html` |
+| macOS | `~/Library/Application Support/com.quickscrawl.desktop/note.html` |
+| Windows | `%APPDATA%\com.quickscrawl.desktop\note.html` |
+| Linux | `~/.local/share/com.quickscrawl.desktop/note.html` |
 
 ## Tech Stack
 
